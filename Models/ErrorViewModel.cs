@@ -2,6 +2,7 @@ using System;
 
 namespace CourtMariott.Models
 {
+
     public class ErrorViewModel
     {
         public string RequestId { get; set; }
